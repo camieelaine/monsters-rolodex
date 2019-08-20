@@ -2,9 +2,9 @@
   "name": "monsters-rolodex",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/camieelaine/monsters-rolodex.git",
+  "homepage": "https://github.com/camieelaine/monsters-rolodex/",
   "dependencies": {
-    "gh-pages": "^2.1.1",
+    "gh-pages": "^2.0.0",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
     "react-scripts": "3.1.1"
@@ -16,7 +16,6 @@
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
-
   },
   "eslintConfig": {
     "extends": "react-app"
